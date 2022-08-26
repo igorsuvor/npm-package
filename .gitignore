@@ -85,3 +85,6 @@ jspm_packages/
 
 # Локальные файлы DynamoDB
 .dynamodb/
+
+# Каталог дист, здесь формируется новый файл Babel
+dist/
